@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container } from '../../components';
+import { Container } from 'components';
 
 class LandingPage extends React.Component {
   render() {
